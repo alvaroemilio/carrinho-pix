@@ -17,6 +17,6 @@ Após a seleção dos produtos e a finalização do carrinho, o sistema gera o c
   PHP 7.4, Apache, Biblioteca PHP QR Code.
   Antes de executar o sistema, é necessário configurar os dados do recebedor PIX no arquivo pagar.php.
 
-$chavePix = ""; // Exemplo de chave Pix válida
-$nomeRecebedor = "";
-$cidadeRecebedor = "";
+- $chavePix = ""; // Exemplo de chave Pix válida
+- $nomeRecebedor = "";
+- $cidadeRecebedor = "";
